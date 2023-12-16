@@ -35,10 +35,10 @@
                 <br>
                 <a href="#">Feminino</a>
                 <ul class='lista2'>
-                    <li class='lista-inverno'><a class='link' href="../páginas/femininoInverno">Roupas de inverno</a>
+                    <li class='lista-inverno'><a class='link' href="../páginas/femininoInverno.html">Roupas de inverno</a>
                     </li>
-                    <li class='lista-verão'><a class='link' href="../páginas/femininoVerão">Roupas de verão</a></li>
-                    <li class='lista-calçados'><a class='link' href="../páginas/femininoCalçados">Calçados</a></li>
+                    <li class='lista-verão'><a class='link' href="../páginas/femininoVerão.html">Roupas de verão</a></li>
+                    <li class='lista-calçados'><a class='link' href="../páginas/femininoCalçados.html">Calçados</a></li>
                 </ul>
             </li>
             <li class='lista0'>
