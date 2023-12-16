@@ -13,14 +13,17 @@
 
 <body class="index-body">
 
-<div class="menuBar">
+    <div class="menuBar">
         <ul class="itensMenu">
             <li class='lista1'>
                 <a href="#">Masculino</a>
                 <ul class='lista2'>
-                    <li class='lista-inverno'><a class='link' href="../páginas/masculinoInverno.html">Roupas de inverno</a></li>
-                    <li class='lista-verão'><a class='link' href="../páginas/masculinoVerão.html">Roudpas e verão</a></li>
-                    <li class='lista-calçados'><a class='link' href="../páginas/masculinoCalçados.html">Calçados</a></li>
+                    <li class='lista-inverno'><a class='link' href="../páginas/masculinoInverno.html">Roupas de
+                            inverno</a></li>
+                    <li class='lista-verão'><a class='link' href="../páginas/masculinoVerão.html">Roudpas e verão</a>
+                    </li>
+                    <li class='lista-calçados'><a class='link' href="../páginas/masculinoCalçados.html">Calçados</a>
+                    </li>
                 </ul>
             </li>
             <li class='lista0'>
@@ -32,8 +35,10 @@
                 <br>
                 <a href="#">Feminino</a>
                 <ul class='lista2'>
-                    <li class='lista-inverno'><a class='link' href="../páginas/femininoInverno.html">Roupas de inverno</a></li>
-                    <li class='lista-verão'><a class='link' href="../páginas/femininoVerão.html">Roupas de verão</a></li>
+                    <li class='lista-inverno'><a class='link' href="../páginas/femininoInverno.html">Roupas de
+                            inverno</a></li>
+                    <li class='lista-verão'><a class='link' href="../páginas/femininoVerão.html">Roupas de verão</a>
+                    </li>
                     <li class='lista-calçados'><a class='link' href="../páginas/femininoCalçados.html">Calçados</a></li>
                 </ul>
             </li>
@@ -46,8 +51,10 @@
                 <br>
                 <a href="#">Infantil</a>
                 <ul class='lista2'>
-                    <li class='lista-inverno'><a class='link' href="../páginas/infantil-Inverno.html">Roupas de inverno</a></li>
-                    <li class='lista-verão'><a class='link' href="../páginas/infantil-Verão.html">Roupas de verão</a></li>
+                    <li class='lista-inverno'><a class='link' href="../páginas/infantil-Inverno.html">Roupas de
+                            inverno</a></li>
+                    <li class='lista-verão'><a class='link' href="../páginas/infantil-Verão.html">Roupas de verão</a>
+                    </li>
                     <li class='lista-calçados'><a class='link' href="../páginas/infantilCalçados.html">Calçados</a></li>
                 </ul>
             </li>
@@ -63,12 +70,16 @@
                 <a href="../login php/intermediario.php">Início</a>
             </li>
 
-            <li class='lista6'>
+            <li class="lista1">
 
-                <a><img class="imagem-login" src="../icons/user.png" >Perfil </a>
+                <a> <img class="imagem-login" src="../icons/user.png"> Perfil</a>
+                <ul class="lista2">
+                    <li class="lista-carrinho">
+                        <a href="../páginas/carrinho.html">Meu carrinho</a>
+                    </li>
 
+                </ul>
             </li>
-
             <li class='lista0'>|</li>
 
             <a href="logout.php">Sair</a>
